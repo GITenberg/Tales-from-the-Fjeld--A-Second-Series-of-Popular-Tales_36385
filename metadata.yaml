@@ -1,0 +1,62 @@
+_repo: Tales-from-the-Fjeld--A-Second-Series-of-Popular-Tales_36385
+_version: 0.1.0
+alternative_title: Norske folke-eventyr. English
+contributor:
+  translator:
+    agent_name: Dasent, George Webbe, Sir
+    alias: Dasent, G. W.
+    birthdate: 1817
+    deathdate: 1896
+    gutenberg_agent_id: '2936'
+    url: http://www.gutenberg.org/2009/agents/2936
+    wikipedia: http://en.wikipedia.org/wiki/George_Webbe_Dasent
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Asbjørnsen, Peter Christen
+    aliases:
+    - Asbjörnsen, P. Chr.
+    - Bonifacius, Clemens
+    - Asbjørnsen, P. C. (Peter Christen)
+    - Asbjornsen, Peter Christen
+    birthdate: 1812
+    deathdate: 1885
+    gutenberg_agent_id: '34177'
+    url: http://www.gutenberg.org/2009/agents/34177
+    wikipedia: http://en.wikipedia.org/wiki/Peter_Christen_Asbj%C3%B8rnsen
+description: ''
+gutenberg_issued: '2011-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36385'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Tales -- Norway'
+- !lcsh 'Folklore -- Norway'
+- !lcsh 'Fairy tales -- Norway'
+- !lcsh 'Fairy tales'
+tableOfContents: Osborn's pipe -- The haunted mill -- Another haunted mill -- The
+  honest penny -- The death of Chanticleer -- The greedy cat -- Grumblegizzard --
+  Father Bruin in the corner -- Reynard and Chanticleer -- Goodman Axehaft -- The
+  companion -- The shopboy and his cheese -- Peik -- Death and the doctor -- The way
+  of the world -- The pancake -- Pork and honey -- The hare and the heiress -- Slip
+  root, catch Reynard's foot -- Bruin Goodfellow -- Bruin and Reynard partners --
+  Reynard wants to taste horse-flesh -- Master Tobacco -- The charcoal-burner -- The
+  box with something pretty in it -- The three lemons -- The priest and the clerk
+  -- Friends in life and death -- The father of the family -- Three years without
+  wages -- Our parish clerk -- Silly men and cunning wives -- Taper Tom -- The trolls
+  in Hedale Wood -- The skipper and Old Nick -- Goody 'gainst-the-stream -- How to
+  win a prince -- Boots and the beast -- The sweetheart in the wood -- How they got
+  Hairlock home -- Osborn Boots and Mr. Glibtongue -- This is the lad who sold the
+  pig -- The sheep and the pig who set up house -- The golden palace that hung in
+  the air -- Little Freddy with his fiddle -- Mother Roundabout's daughter -- The
+  Green Knight -- Boots and his crew -- The town-mouse and the fell-mouse -- Silly
+  Matt -- King Valemon, the white bear -- The golden bird.
+title: 'Tales from the Fjeld: A Second Series of Popular Tales'
+url: http://www.gutenberg.org/ebooks/36385
